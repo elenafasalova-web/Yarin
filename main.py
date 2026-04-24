@@ -1,6 +1,4 @@
-git init
-echo "*.pyc" > .gitignore
-echo "__pycache__/" >> .gitignore
+
 import tkinter as tk
 from tkinter import messagebox, ttk
 import json
